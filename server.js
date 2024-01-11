@@ -3,7 +3,7 @@ if (process.env.NODE_ENV !== "production") {
 }
 
 
-// Importing Libraies that we installed using npm
+// Importing all Libraies that we installed using npm
 const express = require("express")
 const app = express()
 const bcrypt = require("bcrypt") // Importing bcrypt package
